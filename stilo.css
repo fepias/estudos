@@ -1,5 +1,6 @@
 
 
+
 .hotel {
     background-image: -moz-linear-gradient(#0487D9 , #049DD9 ,#9FC5E4,#9FC5E4);
     margin: 60;
@@ -10,8 +11,14 @@
     border: 3px solid #ccc
 }
 
+body{
+    background-image: url('fundomar.jpg');
+}
+
+
+
 section{
-    background-color: rgb#59429d
+    background-color: rgb(247, 242, 242);
     border-radius: 10px;
     padding: 15px;
     width: 500px;
@@ -28,7 +35,7 @@ section{
     h2{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:#595959 ;
+    color:#ece3e3 ;
     }
 
     footer{
